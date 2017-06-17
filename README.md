@@ -1,3 +1,3 @@
 # hello-world
 Just Learning
-Wow GitHub id great.
+Wow GitHub is great.
